@@ -48,3 +48,8 @@ ul {
     list-style-type: none;
     margin-top: 0px;
 }
+
+p {
+    padding: 5;
+    line-height: 12px;
+}
